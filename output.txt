@@ -1,0 +1,291 @@
+Virtual User Script started at: 3/27/2018 12:22:19 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.56.0 for Windows 7; build 985 (Feb 07 2018 11:34:50)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\nazamyz\AppData\Local\Temp\TD_80\12.55.0.0_952\0ba67f32\Test\380\380\380\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 1.2491 Wasted Time: 1.1669).
+Ending action Action.
+Ending iteration 1.
+Starting iteration 2.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0551 Wasted Time: 0.0089).
+Ending action Action.
+Ending iteration 2.
+Starting iteration 3.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0493 Wasted Time: 0.0120).
+Ending action Action.
+Ending iteration 3.
+Starting iteration 4.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0531 Wasted Time: 0.0150).
+Ending action Action.
+Ending iteration 4.
+Starting iteration 5.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0549 Wasted Time: 0.0187).
+Ending action Action.
+Ending iteration 5.
+Starting iteration 6.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0599 Wasted Time: 0.0226).
+Ending action Action.
+Ending iteration 6.
+Starting iteration 7.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0624 Wasted Time: 0.0247).
+Ending action Action.
+Ending iteration 7.
+Starting iteration 8.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0654 Wasted Time: 0.0282).
+Ending action Action.
+Ending iteration 8.
+Starting iteration 9.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0699 Wasted Time: 0.0312).
+Ending action Action.
+Ending iteration 9.
+Starting iteration 10.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0729 Wasted Time: 0.0350).
+Ending action Action.
+Ending iteration 10.
+Starting iteration 11.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0825 Wasted Time: 0.0405).
+Ending action Action.
+Ending iteration 11.
+Starting iteration 12.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0808 Wasted Time: 0.0414).
+Ending action Action.
+Ending iteration 12.
+Starting iteration 13.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0829 Wasted Time: 0.0445).
+Ending action Action.
+Ending iteration 13.
+Starting iteration 14.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0984 Wasted Time: 0.0472).
+Ending action Action.
+Ending iteration 14.
+Starting iteration 15.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0939 Wasted Time: 0.0501).
+Ending action Action.
+Ending iteration 15.
+Starting iteration 16.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1558 Wasted Time: 0.0563).
+Ending action Action.
+Ending iteration 16.
+Starting iteration 17.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.0963 Wasted Time: 0.0587).
+Ending action Action.
+Ending iteration 17.
+Starting iteration 18.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1673 Wasted Time: 0.0621).
+Ending action Action.
+Ending iteration 18.
+Starting iteration 19.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1434 Wasted Time: 0.0739).
+Ending action Action.
+Ending iteration 19.
+Starting iteration 20.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1820 Wasted Time: 0.0692).
+Ending action Action.
+Ending iteration 20.
+Starting iteration 21.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1094 Wasted Time: 0.0713).
+Ending action Action.
+Ending iteration 21.
+Starting iteration 22.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1124 Wasted Time: 0.0755).
+Ending action Action.
+Ending iteration 22.
+Starting iteration 23.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1182 Wasted Time: 0.0792).
+Ending action Action.
+Ending iteration 23.
+Starting iteration 24.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1211 Wasted Time: 0.0833).
+Ending action Action.
+Ending iteration 24.
+Starting iteration 25.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1267 Wasted Time: 0.0881).
+Ending action Action.
+Ending iteration 25.
+Starting iteration 26.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1454 Wasted Time: 0.0873).
+Ending action Action.
+Ending iteration 26.
+Starting iteration 27.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") was successful, 5543 body bytes, 300 header bytes, 13 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.js(23): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 0.1525 Wasted Time: 0.0974).
+Ending action Action.
+Ending iteration 27.
+Starting iteration 28.
+Starting action Action.
+Action.js(10): web.setSocketsOption started  	[MsgId: MMSG-26355]
+Action.js(10): web.setSocketsOption was successful  	[MsgId: MMSG-26392]
+Action.js(11): Notify: Transaction "HomePage" started.
+Action.js(12): web.url("web-qa-blue.corp.cdw.com") started  	[MsgId: MMSG-26355]
+Action.js(12): Notify: Transaction "HomePage" ended with a "Stop" status (Duration: 0.0200 Wasted Time: 0.0002).
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
